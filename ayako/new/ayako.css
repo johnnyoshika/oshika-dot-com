@@ -1,0 +1,68 @@
+body {
+	background-color:#ffcc66;
+	color:brown;
+	/*
+	color:#ff9900;
+	background-color:#ccffff;
+	color:#0099ff;
+	*/
+	margin:0px;
+	text-align:center;
+}
+
+table.base {
+	background-color:white;
+	width:750px;
+	font-size:12pt;
+	border:2px;
+}
+
+table.base td {
+	text-align:center;
+	padding:0px;
+}
+
+th {
+	color:brown;
+	/*
+	color:#ff9900;
+	color:#0099ff;
+	*/
+}
+
+tr.copy {
+	vertical-align:bottom;
+}
+
+tr.menu {
+	background-color:brown;
+	/*
+	background-color:#ff9900;
+	background-color:#0099ff;
+	*/
+	color:white;
+	padding:0px;
+}
+
+tr.menu a {
+	color:white;
+	text-decoration:none;
+	padding:0px, 10px;
+}
+
+tr.thin {
+	background-color:brown;
+	/*
+	background-color:#ff9900;
+	background-color:#0099ff;
+	*/
+	height:1px;
+}
+
+th.top {
+	font-size:20pt;
+	color:brown;
+	/*
+	color:#ff9900;
+	*/
+}

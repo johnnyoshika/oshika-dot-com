@@ -1,0 +1,9 @@
+paper size
+
+15 centered each side
+
+6 top left
+
+shadow 6x6
+feather 10
+opacity 75
